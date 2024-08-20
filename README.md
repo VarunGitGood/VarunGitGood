@@ -1,4 +1,4 @@
-<img align="left" height="250" src="https://media.giphy.com/media/7NoNw4pMNTvgc/giphy.gif?cid=790b7611p9l6p8547k9ctgkw34rv4eth85e9audbdqyypjip&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
+<img align="left" height="" src="https://media.giphy.com/media/7NoNw4pMNTvgc/giphy.gif?cid=790b7611p9l6p8547k9ctgkw34rv4eth85e9audbdqyypjip&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
 
 ###
 
@@ -66,10 +66,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" height="30" alt="socketio logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" height="30" alt="solidity logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vagrant/vagrant-original.svg" height="30" alt="vagrant logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" height="30" alt="yarn logo"  />
 </div>
 
 ###
