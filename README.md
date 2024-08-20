@@ -78,7 +78,7 @@
 
 ###
 
-<p align="left"></p>
+<h1 align="left"></h1>
 
 ###
 
@@ -88,6 +88,7 @@
 </div>
 
 ###
+<br clear="both">
 
 <div align="left">
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
