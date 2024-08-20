@@ -1,5 +1,3 @@
-<br clear="both">
-
 <img align="left" height="150" src="https://media.giphy.com/media/7NoNw4pMNTvgc/giphy.gif?cid=790b7611p9l6p8547k9ctgkw34rv4eth85e9audbdqyypjip&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
 
 ###
