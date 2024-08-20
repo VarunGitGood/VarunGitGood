@@ -1,12 +1,12 @@
-<img align="left" height="150" src="https://media.giphy.com/media/7NoNw4pMNTvgc/giphy.gif?cid=790b7611p9l6p8547k9ctgkw34rv4eth85e9audbdqyypjip&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
+<img align="left" height="250" src="https://media.giphy.com/media/7NoNw4pMNTvgc/giphy.gif?cid=790b7611p9l6p8547k9ctgkw34rv4eth85e9audbdqyypjip&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
 
 ###
 
-<h2 align="left">Hi 👋! My name is Varun and I'm a developer, from Earth ( maybe )</h2>
+<h3 align="right">Hi 👋! My name is Varun and I'm a developer, from Earth ( maybe )</h3>
 
 ###
 
-<div align="left">
+<div align="right">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
@@ -59,8 +59,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="30" alt="nginx logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" height="30" alt="nestjs logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="30" alt="redis logo"  />
@@ -80,14 +78,14 @@
 
 ###
 
-<div align="left">
+<div align="right">
   <img src="https://streak-stats.demolab.com?user=VarunGitGood&locale=en&mode=daily&theme=gruvbox&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=VarunGitGood&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gruvbox&hide_border=true" height="150" alt="languages graph"  />
 </div>
 
 ###
 
-<div align="left">
+<div align="right">
   <a href="https://www.instagram.com/varunsingh__7/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="instagram logo"  />
   </a>
