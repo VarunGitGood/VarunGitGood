@@ -102,13 +102,3 @@
 <img src="https://raw.githubusercontent.com/VarunGitGood/VarunGitGood/output/snake.svg" alt="Snake animation" />
 
 ###
-
-<p align="left"></p>
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/VarunGitGood/count.svg?"  />
-</div>
-
-###
