@@ -5,11 +5,6 @@
 ###
 
 <br clear="both">
-<img src="https://raw.githubusercontent.com/VarunGitGood/VarunGitGood/output/snake.svg" alt="Snake animation" />
-
-###
-
-<br clear="both">
 <div align="center">
   <a href="https://www.instagram.com/varunsingh__7/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="instagram logo"  />
